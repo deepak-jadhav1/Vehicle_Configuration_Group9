@@ -907,8 +907,14 @@ This project was developed as a **Group Project** as part of the CDAC program.
 ### Project Contributors
 
 * **Deepak Jadhav**
-* Group 9 Team Members
-
+* **Pratik Ollela**
+* **Umesh Sagar**
+* **Anushri Thorat**
+* **Janardhan Magdhum**
+* **Tanay Poyekar**
+* **Rututja Gaidhani**
+* **Shrikant Ghogare**
+  
 > Contributions and responsibilities were distributed among the project team members across frontend development, backend development, database management, integration, and deployment.
 
 ---
